@@ -1,4 +1,4 @@
-currently developing drex, a modern realm bot.
+currently developing nothing.
 
 
 ## Socials:
