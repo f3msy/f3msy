@@ -1,4 +1,4 @@
-### currently developing [XHook](https://x-hook.vercel.app)
+### Currently Developing [XHook](https://x-hook.vercel.app)
 
 
 ## Socials:
