@@ -1,4 +1,4 @@
-### Currently Developing [XHook](https://x-hook.vercel.app)
+### Currently Developing Discord Utility Tools: [HypeSquad Tool](https://github.com/f3msy/HypeSquad-Tool) and [Spoopify](https://github.com/f3msy/Spoopify)
 
 
 ## Socials:
