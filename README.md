@@ -1,4 +1,4 @@
-### Currently Developing Discord Utility Tools: [HypeSquad Tool](https://github.com/f3msy/HypeSquad-Tool) and [Spoopify](https://github.com/f3msy/Spoopify)
+### Currently Developing Discord Utility Tools: [HypeSquader](https://github.com/f3msy/HypeSquad-Tool) and [Spoopify](https://github.com/f3msy/Spoopify)
 
 
 ## Socials:
