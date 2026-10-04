@@ -1,4 +1,4 @@
-### Currently Developing Nothing.
+### Currently Developing Perxa ⏤ [ discord.gg/nethernet ]
 
 
 ## Socials:
