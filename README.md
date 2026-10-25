@@ -1,4 +1,4 @@
-### Currently Developing Perxa ⏤ [ discord.gg/nethernet ]
+### currently developing crashing ⏤ discord.gg/crashing
 
 
 ## Socials:
